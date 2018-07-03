@@ -1,0 +1,21 @@
+sporulation	resusitation	Type	Toxin-Anti	Order
+18	417	Bfire affected	352402	B
+21	452	Bfire affected	456662	B
+35	644	Bfire affected	415448	B
+48	1296	Bfire affected	478998	B
+52	560	Bfire affected	358839	B
+61	862	Bfire affected	237489	B
+66	564	Bfire affected	303703	B
+239	530	Bfire affected	425578	B
+106	410	Crecovered	378788	C
+112	1050	Crecovered	526123	C
+198	348	Crecovered	371708	C
+349	1097	Crecovered	323217	C
+626	763	Crecovered	574094	C
+2483	911	Crecovered	635591	C
+3132	513	Crecovered	465976	C
+9623	1856	Crecovered	94901	C
+238	1673	Areference	407227	A
+5069	1231	Areference	235296	A
+7069	3231	Areference	435296	A
+9069	2231	Areference	435296	A

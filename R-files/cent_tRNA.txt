@@ -1,0 +1,13 @@
+Classification	tRNA_rel
+BFireAffected	3.975498575
+BFireAffected	1.860212129
+BFireAffected	1.542864315
+BFireAffected	2.103268333
+BFireAffected	1.786609687
+BFireAffected	8.431372549
+CRecovered	4.527507485
+CRecovered	13.18903855
+CRecovered	13.45157895
+CRecovered	10.21121631
+CRecovered	9.182098765
+AReference	5.915091317
