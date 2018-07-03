@@ -1,4 +1,4 @@
-# Trait-based patterns of microbial dynamics in dormancy potential and heterotrophic strategy: case studies of resource-based and post-press succession
+## Trait-based patterns of microbial dynamics in dormancy potential and heterotrophic strategy: case studies of resource-based and post-press succession
 
 Data and code for Kearns and Shade (2018), ISME J. 
 
